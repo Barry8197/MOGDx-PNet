@@ -1,3 +1,7 @@
 [submodule "PNetTorch"]
 	path = PNetTorch
 	url = git@github.com:Barry8197/PNetTorch.git
+[submodule "MOGDx"]
+	path = MOGDx
+	url = git@github.com:Barry8197/MOGDx.git
+	branch = python_only
